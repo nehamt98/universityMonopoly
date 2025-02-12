@@ -1,5 +1,5 @@
 # University Monopoly
-**University Monopoly** is a board game similar to Monopoly, designed for the academic community. Players move across the board, buy university buildings, collect tuition fees, and manage their credits. This project models the game using SQLite, implementing core game mechanics through a relational database.  
+**University Monopoly** is a strategy board game inspired by the classic Monopoly, where players move across a university campus, purchase buildings, collect tuition fees, and manage their credit balance. As players progress, they land on various locations that may grant rewards or trigger special actions. This project models the game using SQLite, implementing core game mechanics through a relational database.  
 
 ## Features  
 - **Dice Rolling System** – Moves players across the board based on dice rolls.  
